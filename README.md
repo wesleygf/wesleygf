@@ -87,4 +87,3 @@ Responsabilidades:
 ## 📫 Contato
 - GitHub: https://github.com/wesleygf  
 - LinkedIn: https://www.linkedin.com/in/wesley-golberto/ 
-- Email: *(opcional)*
